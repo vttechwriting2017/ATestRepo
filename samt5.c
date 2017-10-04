@@ -31,6 +31,7 @@
 // With the sole exception of CSet_Init(), all CSet objects supplied as
 // parameters are expected to be proper.
 //
+// This is here for demo purposes
 
 /**
  * Initializes a raw pSet object, with capacity Sz.
